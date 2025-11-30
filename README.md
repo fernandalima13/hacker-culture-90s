@@ -1,6 +1,6 @@
-Hacker Culture & Ethics: 1990s to Today
+# **Hacker Culture & Ethics: 1990s to Today**
 
-Author: Fernanda Lima
+**Author: Fernanda Lima**
 
 This project is a retro-styled web essay exploring how hacker culture emerged and evolved from the early Internet era to today. It contrasts authentic hacker ethics—curiosity, openness, decentralization—with the sensationalized portrayals created by 1990s film and news media.
 
